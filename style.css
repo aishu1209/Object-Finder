@@ -1,0 +1,16 @@
+h1{
+    font-size: 60px !important;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black !important;
+}
+
+p{
+    font-size: 18px !important;
+    color: white;
+    font-family:cursive;
+} 
+
+canvas{
+    box-shadow: 5px 5px 5px purple;
+    border-radius: 20px;
+}
